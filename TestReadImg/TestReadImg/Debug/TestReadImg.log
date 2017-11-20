@@ -1,0 +1,9 @@
+﻿  TestReadImg.cpp
+c:\users\wu\documents\visual studio 2015\projects\testreadimg\testreadimg\testreadimg.cpp(3): error C2871: “cv”: 具有该名称的命名空间不存在
+c:\users\wu\documents\visual studio 2015\projects\testreadimg\testreadimg\testreadimg.cpp(6): error C2065: “Mat”: 未声明的标识符
+c:\users\wu\documents\visual studio 2015\projects\testreadimg\testreadimg\testreadimg.cpp(6): error C2146: 语法错误: 缺少“;”(在标识符“picture”的前面)
+c:\users\wu\documents\visual studio 2015\projects\testreadimg\testreadimg\testreadimg.cpp(6): error C2065: “picture”: 未声明的标识符
+c:\users\wu\documents\visual studio 2015\projects\testreadimg\testreadimg\testreadimg.cpp(6): error C3861: “imread”: 找不到标识符
+c:\users\wu\documents\visual studio 2015\projects\testreadimg\testreadimg\testreadimg.cpp(8): error C2065: “picture”: 未声明的标识符
+c:\users\wu\documents\visual studio 2015\projects\testreadimg\testreadimg\testreadimg.cpp(8): error C3861: “imshow”: 找不到标识符
+c:\users\wu\documents\visual studio 2015\projects\testreadimg\testreadimg\testreadimg.cpp(9): error C3861: “waitKey”: 找不到标识符
